@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="RGLab3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RG Lab3 - Ostrvo - resenje.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RG Lab3 - Ostrvo - skelet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

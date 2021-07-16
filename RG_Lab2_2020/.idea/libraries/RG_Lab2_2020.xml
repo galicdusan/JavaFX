@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RG_Lab2_2020">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Double Bubble - Lab2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Double Bubble - Skelet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Double Bubble - Lab1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

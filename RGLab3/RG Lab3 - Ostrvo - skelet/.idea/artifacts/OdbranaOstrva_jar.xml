@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OdbranaOstrva:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OdbranaOstrva_jar</output-path>
+    <root id="archive" name="RG Lab3 - Ostrvo - skelet.jar">
+      <element id="module-output" name="RG Lab3 - Ostrvo - skelet" />
+    </root>
+  </artifact>
+</component>
